@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTo3d", "ImageTo3d\ImageTo3d.csproj", "{7D8283C5-188C-47D7-B308-EAD96F23C6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8283C5-188C-47D7-B308-EAD96F23C6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8283C5-188C-47D7-B308-EAD96F23C6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8283C5-188C-47D7-B308-EAD96F23C6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8283C5-188C-47D7-B308-EAD96F23C6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4696D9C7-78B0-4E0C-8A5D-7450D04C0F2C}
+	EndGlobalSection
+EndGlobal
